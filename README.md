@@ -1,2 +1,4 @@
 # gcv-repo
-talk about each branch here
+Automated Stock Predictor: 
+--description--
+https://github.com/Gurinder-Vasanta/gcv-repo/tree/Automated_Stock_Price_Predictor
