@@ -169,4 +169,4 @@ for i in range(0, len(fire_acres_by_county)):
     for i in range(0, len(fire_acres_by_county_cumulative)):
         print(fire_acres_by_county[i][0])
         plt.plot(np.arange(2008, 2020), fire_acres_by_county_cumulative[i][1:13], 'o')
-        plt.show()
+        plt.show() 
