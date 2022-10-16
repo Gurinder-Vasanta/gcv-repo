@@ -20,5 +20,5 @@ This project classifies xray images of lungs that are infected with pneumonia an
 [Optimal Taxi Duration](https://github.com/Gurinder-Vasanta/gcv-repo/tree/Optimal_Taxi_Duration):
 This project takes parameters such as latitude and longitude and predicts what the duration of the taxi ride would be in seconds. 
 
-
-
+[Google Universal Image Embedding Image Classification](https://github.com/Gurinder-Vasanta/gcv-repo/tree/GUIE_Image_Classification):
+This project classifies around 130k pictures into several different categories. 
