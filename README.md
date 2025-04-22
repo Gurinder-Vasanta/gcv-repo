@@ -1,5 +1,5 @@
 # gcv-repo
-## Here are some of my recent projects across deep learning, data science, and machine learning. My work spans computer vision, NLP, forecasting, and modeling real-world phenomena.
+## Here are some of my recent projects across deep learning, data science, and machine learning. My work spans computer vision, NLP, forecasting, and modeling real-world phenomena. Feel free to click any of the links to see what I have worked on!
 🏀🤖📹 **[NBA Possession Classification with Vision Transformers](https://github.com/Gurinder-Vasanta/vit-research)**:
 This project applies the Vision Transformer (ViT) architecture to predict the outcome of NBA possessions using court broadcast footage from YouTube. The transformer leverages embeddings and temporal/spatial attention to predict the outcomes. 
 
