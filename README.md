@@ -1,5 +1,5 @@
 # gcv-repo
-🏀🤖📹**[NBA Possession Classification with Vision Transformers](https://github.com/Gurinder-Vasanta/vit-research)**:
+🏀🤖📹 **[NBA Possession Classification with Vision Transformers](https://github.com/Gurinder-Vasanta/vit-research)**:
 This project applies the Vision Transformer (ViT) architecture to predict the outcome of NBA possessions using court broadcast footage from YouTube. The transformer leverages embeddings and temporal/spatial attention to predict the outcomes. 
 
 📈🧮[Automated Stock Predictor](https://github.com/Gurinder-Vasanta/gcv-repo/tree/Automated_Stock_Price_Predictor): 
