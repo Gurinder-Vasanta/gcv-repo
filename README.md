@@ -1,4 +1,7 @@
 # gcv-repo
+[NBA Possession Classification with Vision Transformers](https://github.com/Gurinder-Vasanta/vit-research):
+This project applies the Vision Transformer (ViT) architecture to predict the outcome of NBA possessions using court broadcast footage from YouTube. The transformer leverages embeddings and temporal/spatial attention to predict the outcomes. 
+
 [Automated Stock Predictor](https://github.com/Gurinder-Vasanta/gcv-repo/tree/Automated_Stock_Price_Predictor): 
 This project scraps stock tickers and their corresponding historical spot prices from the business insider website. Each company gets its own .csv file with data and the net.py program uses these csv files and LSTM layers to predict each future price. 
 
